@@ -63,8 +63,8 @@ Trello programı üzerinde taskler tamamlanmakta.
 ![Backlog 3]()
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
+  ![Screenshot 1](https://github.com/TheOldRoe/Unity-88/blob/main/character%20template%201.png)
+  ![Screenshot 2](https://github.com/TheOldRoe/Unity-88/blob/main/character%20template%202.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Herkesin aynı Unity 2020.3.25f1 sürümünü kullanma kararı alındı. Sprint Review katılımcıları: ...
