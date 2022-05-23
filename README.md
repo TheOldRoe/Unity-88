@@ -85,13 +85,13 @@ Alınan kararlar: Herkesin aynı Unity 2020.3.25f1 sürümünü kullanma kararı
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Puanlamalar sprint notes kısmı içinde yapıldı.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 Trello programı üzerinde taskler tamamlanmakta.
 
-- **Daily Scrum**: Daily Scrum toplantılarının herkesin erişim kolaylığından dolayı Zoom ve Google Meeting üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/TheOldRoe/Unity-88/blob/main/google-meeting%20sprint2.png)
+- **Daily Scrum**: Daily Scrum toplantılarının herkesin erişim kolaylığından dolayı Zoom ve Google Meeting üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/TheOldRoe/Unity-88/blob/main/google-meeting%20sprint2.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/TheOldRoe/Unity-88/blob/main/trello%20sprint%202.png) 
