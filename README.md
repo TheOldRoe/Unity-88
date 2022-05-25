@@ -35,7 +35,7 @@ Runner gotik tarzı, farklı farklı kızların tarzlarını ve kendilerini, top
 - Story Game seven kullanıcılar
 - Rekabetçi oyun türü seven oyuncular
 - Dizi/Film/Kitap severler
-- 12 - 65 yaş arası kullanıcılar
+- 12 - 45 yaş arasındaki kadın mobil kullanıcılar
 
 ## Product Backlog URL
 
