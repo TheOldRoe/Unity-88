@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637901203224780235
-    m_Hash: 2319830330
+      ticks: 637901340094045582
+    m_Hash: 1742896762
   m_LockFileStatus:
     m_FilePath: C:/Users/myazi/OneDrive/Belgeler/GitHub/Unity-88/Bootcamp/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637901203224899909
-    m_Hash: 1621073769
+      ticks: 637901340094055552
+    m_Hash: 414520415
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
