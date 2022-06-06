@@ -569,7 +569,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.8392157, g: 0.03137255, b: 0.28627452, a: 0}
+  m_BackGroundColor: {r: 0.2783019, g: 0.9858661, b: 1, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -4601,6 +4601,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5951974191894422651, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5951974191923461167, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -4608,6 +4612,30 @@ PrefabInstance:
     - target: {fileID: 5951974191923461167, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ReplayGame
+      objectReference: {fileID: 0}
+    - target: {fileID: 5951974191961211676, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5951974191961211677, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
+      propertyPath: m_Text
+      value: GAME OVER
+      objectReference: {fileID: 0}
+    - target: {fileID: 5951974191961211677, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5951974191961211677, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
+      propertyPath: m_Color.g
+      value: 0.0996292
+      objectReference: {fileID: 0}
+    - target: {fileID: 5951974191961211677, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5951974191961211677, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5951974191982880432, guid: 1620110891c988e4fa7d9c752823ebfb, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
