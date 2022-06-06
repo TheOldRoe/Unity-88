@@ -1,0 +1,4 @@
+seasion start Log= com.start
+seasion Eld Log= com.end
+lvl complated Log=com.lvlcomplated
+win conditional Log= com.win Def(1)

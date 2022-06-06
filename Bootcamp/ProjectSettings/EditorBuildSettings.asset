@@ -18,12 +18,24 @@ EditorBuildSettings:
     path: Assets/Scenes/Veaknes/SecondScene.unity
     guid: 7affcc3f8bee17448b7e80a0a72b54ec
   - enabled: 1
-    path: Assets/Scenes/Veaknes/Jungle/Level1.unity
-    guid: 224bd70aeaee1304997b6927d82a8568
+    path: Assets/Scenes/Veaknes/Desert/Level2.unity
+    guid: 0965543da15c71749b4797ebb7e5fd40
   - enabled: 1
     path: Assets/Scenes/Veaknes/1-2.unity
     guid: 059ec049ab47d644bb8e55e7de72bfe3
   - enabled: 1
-    path: Assets/Scenes/Veaknes/Desert/Level2.unity
-    guid: 0965543da15c71749b4797ebb7e5fd40
+    path: Assets/Scenes/Veaknes/Jungle/Level1.unity
+    guid: 224bd70aeaee1304997b6927d82a8568
+  - enabled: 1
+    path: Assets/Scenes/Berat/level1-berat.unity
+    guid: 8ae215f1e6033de4aa5c442105c265f9
+  - enabled: 1
+    path: Assets/Scenes/Veaknes/Desert/Level2 1.unity
+    guid: 6382e2bfcfec78442aeddc414a9d12c7
+  - enabled: 1
+    path: Assets/Scenes/Berat/level1-berat 1.unity
+    guid: ee1b4ccf49ebb0143b8b4dfed5e940b3
+  - enabled: 1
+    path: Assets/Scenes/Veaknes/Jungle/Level1 1.unity
+    guid: 8fa58230f0cfc494eb7bca9b3400837c
   m_configObjects: {}

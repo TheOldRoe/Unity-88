@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     public float forwardSpeed = 8;
 
     private int desiredLane = 1;//0:left 1:middle 2:left
-    public float laneDistance = 4;//the distance between two lanes
+    public float laneDistance = 3;//the distance between two lanes
 
     public bool isGrounded;
     public LayerMask groundLayer;

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Veaknes/Jungle/Level1.unity
+- path: Assets/Scenes/Berat/level1-berat.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
