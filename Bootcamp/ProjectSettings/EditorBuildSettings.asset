@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/Veaknes/Intro.unity
+    guid: 60479992535d14c4aa6ddbc1fcf3cbf6
+  - enabled: 1
+    path: Assets/Scenes/Veaknes/Jungle/Level1.unity
     guid: 224bd70aeaee1304997b6927d82a8568
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/Scenes/Veaknes/Menu.unity
     guid: 5141a01ff30f2b241b9575534f2864c5
   m_configObjects: {}
